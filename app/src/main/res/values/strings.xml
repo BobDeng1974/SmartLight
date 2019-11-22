@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">组网调灯终端</string>
+
+    <!--application_layout-->
+    <string name="start_text1">组网调灯手机终端</string>
+    <string name="start_text2">电信 2015 级</string>
+
+    <!--main_layout-->
+    <string name="title_main">我的设备</string>
+    <string name="list_empty_text">暂未添加任何设备</string>
+
+
+    <!--add_device_layout-->
+    <string name="title_add_device">添加设备</string>
+    <string name="SmartConfig_status">配网</string>
+    <string name="input_wifi_ssid">当前WIFI</string>
+    <string name="input_password">登录密码</string>
+    <string name="input_wifi_pwd">WI-FI密码</string>
+    <string name="psw_digits">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLIMNOPQRSTUVWXYZ</string>
+    <string name="smart_config">智能配网</string>
+    <string name="no_wifi_connection">未连接 WIFI</string>
+    <string name="wifi_5g_message">暂不支持 5G 频段设备</string>
+</resources>

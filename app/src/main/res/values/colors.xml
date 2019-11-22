@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#067fea</color>
+    <color name="colorPrimaryDark">#067fea</color>
+    <color name="colorAccent">#067fea</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="zstp_color">#723c48</color>
+
+    <color name="black">#000000</color>
+    <color name="register_hint_text_color">#AEAEAE</color>
+</resources>
